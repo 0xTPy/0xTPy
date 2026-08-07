@@ -1,16 +1,15 @@
-## Hi there 👋
-
-<!--
-**ThelioCode/ThelioCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+//=======================================================================//
+//____   ____             __  _____.___._________            .___        //
+//\   \ /   /____________/  |_\__  |   |\_   ___ \  ____   __| _/____    //
+// \   Y   // __ \_  __ \   __\/   |   |/    \  \/ /  _ \ / __ |/ __ \   //
+//  \     /\  ___/|  | \/|  |  \____   |\     \___(  <_> ) /_/ \  ___/   //
+//   \___/  \___  >__|   |__|  / ______| \______  /\____/\____ |\___  >  //
+//              \/             \/               \/            \/    \/   //
+//                                                                       //
+//                    https://github.com/ThelioCode                      //
+//                    https://codepen.io/Thelio2003                      //
+//                  https://microstudio.io/ThelioCode                    //
+//_______________________________________________________________________//
+//                Python • Linux • Html • Java • Skript                  //
+//                 | Rien. Juste des lignes de code |                    //
+//=======================================================================//
