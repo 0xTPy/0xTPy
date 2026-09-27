@@ -34,6 +34,6 @@
 //                    https://codepen.io/0x_TPy                          //
 //                  https://microstudio.io/0x_TPy                        //
 //_______________________________________________________________________//
-//             Python • Linux • Html • Java • FlipperZero                //
+//             Python • Linux • Html • Java • MicroPython                //
 //                 | Rien. Juste des lignes de code |                    //
 //=======================================================================//
